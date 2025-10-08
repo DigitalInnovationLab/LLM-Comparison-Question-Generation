@@ -1,0 +1,20 @@
+3
+
+The term "machine learning" was first coined by Arthur Samuel in 1959, an IBM employee known for his work in computer gaming and artificial intelligence. Samuel's early work included a program that calculated winning chances in checkers, marking an early milestone in machine learning. However, the roots of machine learning trace back to earlier efforts to understand human cognitive processes, with contributions from researchers like Donald Hebb, who proposed theoretical neural structures in 1949. Other key figures include Walter Pitts and Warren McCulloch, who developed early mathematical models of neural networks, laying the groundwork for modern machine learning algorithms.
+
+machine learning, Arthur Samuel, 1959, IBM, checkers, Donald Hebb, 1949, neural structures, Walter Pitts, Warren McCulloch
+
+Question 1) Who is credited with coining the term 'machine learning'?. Answer 1) Arthur Samuel, John McCarthy, Alan Turing, Marvin Minsky. Question 2) When did the pivotal moment for 'machine learning' occur, marking the inception of the term? Answer 2) 1959, 1965, 1949, 1972. Question 3) Which researcher's work on theoretical neural structures significantly contributed to the early development of machine learning? Answer 3) Donald Hebb, Walter Pitts, Warren McCulloch, John von Neumann.
+
+
+
+3
+
+In the quiet corners of the library, Sarah discovered the beauty of silence. Each page she turned felt like a whispered secret, and every book was a portal to another world. As she lost herself in stories of adventure and heartbreak, the outside world faded into a mere backdrop. The library became a sanctuary that offered her solace from the chaos of life. In this haven, Sarah found pieces of herself reflected in the tales of others, making her feel less alone.
+
+library, silence, sanctuary, stories, adventure
+
+Question 1) What transformation occurs in Sarah's perception of the library? Answer 1) It becomes a sanctuary from life's chaos, It turns into a source of anxiety, It is seen as a mere storage of books, It is viewed as a place of boredom. Question 2) How do the stories impact Sarah's understanding of herself? Answer 2) They help her recognize her own reflections, They create confusion about her identity, They remind her of her solitude, They lead her to seek external validation. Question 3) What role do adventure stories play in Sarah's experience at the library? Answer 3) They make her feel detached from reality, They make her feel lively, They emphasize the dangers of the outside world, They suggest that adventure is best left to other
+
+
+

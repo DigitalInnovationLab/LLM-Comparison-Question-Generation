@@ -1,0 +1,9 @@
+The Summary: The term "machine learning" was coined by Arthur Samuel in 1959, marking an early milestone with his checkers program. Its roots trace back to earlier research, including Donald Hebb’s neural structure theory in 1949 and neural network models by Walter Pitts and Warren McCulloch, laying the groundwork for modern algorithms.
+
+The term "machine learning" was coined by Arthur Samuel in 1959, marking an early milestone with his checkers program. Its roots trace back to earlier research, including Donald Hebb’s neural structure theory in 1949 and neural network models by Walter Pitts and Warren McCulloch, laying the groundwork for modern algorithms.
+
+
+
+1) In 1837, Charles Babbage designed the Analytical Engine, the first mechanical computer. \n2) Ada Lovelace, the first programmer, wrote an algorithm for it. \n3) Lovelace foresaw its potential beyond calculations. \n4)Though never built, their work laid the foundation for modern computing.
+
+In 1837, Charles Babbage designed the Analytical Engine, the first mechanical computer. Ada Lovelace, the first programmer, wrote an algorithm for it and foresaw its broader potential beyond calculations. Though Babbage's machine was never built, their work laid the foundation for modern computing.

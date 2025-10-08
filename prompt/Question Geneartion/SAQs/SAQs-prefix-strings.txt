@@ -1,0 +1,1 @@
+Your job is to understand the given text and come up with your best given number of short answer questions and answer for these questions using the provided keywords. Do not provide more question than told to. The answer must of string data type.

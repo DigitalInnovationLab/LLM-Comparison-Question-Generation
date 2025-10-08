@@ -1,0 +1,25 @@
+France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower.
+
+What is the capital of France? 
+
+{{"response": {{"score": "2", "reasoning": "This is a straightforward factual question requiring minimal inference."}}}}
+
+
+
+
+
+The Renaissance was a cultural movement that began in Italy during the 14th century, influencing art, literature, and science.
+
+How did the cultural influences of the Renaissance impact art and literature during the 14th century?
+
+{{"response": {{"score": "4", "reasoning": "This question requires a deeper understanding of the text and an ability to connect various elements of the Renaissance to its effects on art and literature. It asks for a nuanced discussion, prompting the respondent to engage with the context and explore specific cultural influences, which makes it more challenging than straightforward recall questions."}}}}
+
+
+
+
+
+Artificial intelligence (AI) has evolved dramatically over the past few decades, affecting industries from healthcare to finance. Ethical considerations surrounding AI development include issues of bias, privacy, and the potential for job displacement.
+
+Discuss the ethical implications of AI on society and how they may shape future regulations.
+
+{{"response": {{"score": "5", "reasoning": "This question challenges the respondent to think abstractly and apply concepts beyond the provided text. It requires a high level of inferential reasoning and a deep understanding of both ethical implications and potential regulatory responses."}}}}

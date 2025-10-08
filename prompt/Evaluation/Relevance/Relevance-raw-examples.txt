@@ -1,0 +1,17 @@
+Renewable energy sources like wind and solar power are essential for sustainable development. They help reduce greenhouse gas emissions and promote environmental health.
+
+Is wind energy cheaper than coal energy? 
+
+{{"response": {{"score": "2", "reasoning": "The question touches on renewable energy but diverts to a comparison between wind and coal energy costs, which is not discussed in the text. The focus on cost detracts from the main theme of sustainability."}}}}
+
+The Industrial Revolution marked a significant period of change, introducing new technologies that transformed industries. Factories became the center of production, increasing efficiency and output while also leading to challenging working conditions for laborers.
+
+How did the Industrial Revolution impact factory workers and their daily routines?
+
+{{"response": {{"score": "3", "reasoning": "The question is relevant and directly relates to the text, focusing on the significance of photosynthesis in the food chain. However, while it touches on an important theme, the question could be more specific or detailed to fully align with the context provided in the passage."}}}}
+
+Genetic engineering involves altering the genetic material of organisms to achieve desired traits. It has applications in medicine, agriculture, and biotechnology, leading to advancements such as genetically modified organisms that are resistant to pests.
+
+Discuss the applications of genetic engineering in agriculture and their impact on food production.
+
+{{"response": {{"score": "5", "reasoning": "This question directly relates to the content of the text and encourages an in-depth response about specific applications and their implications. It aligns perfectly with the key themes of genetic engineering and its benefits."}}}} 

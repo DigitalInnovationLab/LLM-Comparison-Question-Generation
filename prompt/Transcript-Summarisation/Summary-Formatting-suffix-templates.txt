@@ -1,0 +1,1 @@
+Extract summary from the previous LLM's response: "{previous_llm_output}"

@@ -1,0 +1,6 @@
+5
+The term machine learning was coined in 1959 by Arthur Samuel, an IBM employee and pioneer in the field of computer gaming and artificial intelligence. The synonym self-teaching computers was also used in this time period.
+machine learning, 1959, Arthur Samuel, IBM employee, artificial intelligence
+6
+Gottlieb Daimler was born on 17 March 1834 in Schorndorf. After training as a gunsmith and working in France, he attended the Polytechnic School in Stuttgart from 1857 to 1859. After completing various technical activities in France and England, he started working as a draftsman in Geislingen in 1862.
+Gottlieb Daimler, 17 March 1834, Schorndorf, School in Stuttgart, 1857 to 1859, draftsman in Geislingen

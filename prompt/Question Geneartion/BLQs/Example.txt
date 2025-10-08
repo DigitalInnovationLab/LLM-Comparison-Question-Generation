@@ -1,0 +1,7 @@
+3
+
+In the heart of the bustling city, amid the noise and endless activity, Emma felt an inexplicable loneliness. Surrounded by people, yet detached from them, she watched life unfold around her like a distant observer. The city, for all its vibrancy, seemed cold and indifferent, its lights flickering without warmth. Even as she walked among the crowds, there was a weight to her steps, a heaviness that came from within a sadness she couldn’t quite name.
+
+city, loneliness, detachment, crowds, sadness
+
+Question 1) Emma felt emotionally connected to the people around her. Answer 1) False. Question 2) The city’s vibrant atmosphere made Emma feel warm and welcome. Answer 2) False. Question 3) Emma’s experience in the city reflects a profound sense of isolation despite being surrounded by many. Answer 3) True.

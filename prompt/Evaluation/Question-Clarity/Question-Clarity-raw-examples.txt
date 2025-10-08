@@ -1,0 +1,8 @@
+Which of these is important for health?
+{{"response": {{"score": "1", "reasoning": "The question is unclear because it is too vague and lacks specific options. It does not provide enough context or detail to guide the respondent in choosing an appropriate answer."}}}}
+
+What are some factors that influenced the outcome of the war?
+{{"response": {{"score": "3", "reasoning": "The question is clear but could be more specific about which war is being referenced, which may lead to slight confusion."}}}}
+
+The largest planet in our solar system is _____, which has a Great Red Spot, a giant storm that has lasted for hundreds of years.
+{{"response": {{"score": "5", "reasoning": "The question is clear and well-structured. It provides ample context, leaving no ambiguity as to what the missing word should be. The phrase "largest planet in our solar system" and the mention of the "Great Red Spot" ensures that the answer is obviously Jupiter."}}}}

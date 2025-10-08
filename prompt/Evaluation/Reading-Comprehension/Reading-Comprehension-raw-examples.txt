@@ -1,0 +1,15 @@
+The cat the mat is _____. 
+
+{{"response": {{"score": "1", "reasoning": "This question is severely confusing and lacks a proper structure. The phrase 'the cat the mat is' does not make sense and does not provide any meaningful context for the gap-fill. Major rewording is necessary for basic comprehension."}}}}
+
+
+
+Where did you went on your last vacation? 
+
+{{"response": {{"score": "3", "reasoning": "Explanation: The question is understandable, but it contains a minor grammatical error ('went' should be 'go'). Rewording the verb would improve the sentence, but overall, it does not hinder comprehension too much."}}}}
+
+
+
+Plants produce oxygen as a result of _____, which occurs in their leaves.
+
+{{"response": {{"score": "5", "reasoning": "The sentence is perfectly constructed with a clear context that guides the reader toward the missing word ('photosynthesis'). There are no grammatical errors, and the sentence communicates its purpose effectively. No improvements are necessary."}}}}
